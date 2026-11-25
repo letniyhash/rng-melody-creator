@@ -15,7 +15,7 @@ from music_theory import SCALES, TRANSITIONS, transition_table
 from statistics_report import build_report
 
 
-UNICODE_SEED = "  Снег 42! — 音楽 🎵  "
+UNICODE_SEED = "  БРАТУХА 42! — 音楽 🎵  "
 
 
 class EngineTests(unittest.TestCase):
